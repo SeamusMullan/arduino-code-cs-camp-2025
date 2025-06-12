@@ -2,18 +2,6 @@
 
 This document shows which projects are compatible with the Arduino Starter Kit components and provides a detailed component matrix.
 
-## Existing Projects in Workspace
-
-| Project | Description | Difficulty | Components Used |
-|---------|-------------|------------|-----------------|
-| Blinking Light | Basic LED blink (uses built-in LED) | Beginner | Arduino only |
-| Automatic Light | Make an LED turn on when its darl | Beginner | Phototransistor, LED, resistors |
-| Temperature Logger | Log temperature readings over time | Intermediate | TMP36, resistors |
-| Traffic Lights | 3-LED traffic light sequence | Beginner | Red/Yellow/Green LEDs, resistors |
-| Push Button Counter | Count button presses on LCD | Intermediate | Pushbutton, LCD, resistors |
-| Temp Display | Show temperature on LCD screen | Intermediate | TMP36, LCD, resistors |
-| DC Motor Speed Controller | Control motor speed with potentiometer | Intermediate | DC motor, potentiometer, MOSFET, diode |
-
 ## Additional Project Ideas
 
 | Project | Description | Difficulty | Components Used |
