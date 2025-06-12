@@ -19,23 +19,23 @@ This document shows which projects are compatible with the Arduino Starter Kit c
 
 | Component | Qty | Blinking Light | Automatic Light | DC Motor Speed Controller | Displays Hello World | Push Button Counter | Temp Display | Temperature Logger | Traffic Lights |
 |-----------|-----|----------------|-----------------|--------------------------|---------------------|---------------------|-------------|--------------------|----------------|
-| **Arduino Uno** | 1 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **USB Cable** | 1 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Breadboard** | 1 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Jumper Wires** | 70 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **LED (White/Generic)** | 1 | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Photoresistor (Light Sensor)** | 1 | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Potentiometer 10kΩ** | 3 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| **Pushbutton** | 1 | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| **TMP36 Sensor** | 1 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
-| **LCD 16x2** | 1 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| **LED Red** | 1 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **LED Yellow** | 1 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **LED Green** | 1 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **DC Motor** | 1 | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **H-Bridge L293D** | 1 | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Resistor 220Ω** | 20 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Resistor 10kΩ** | 20 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Arduino Uno** | 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **USB Cable** | 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **Breadboard** | 1 | ✗ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **Jumper Wires** | 70 | ✗ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **LED (White/Generic)** | 1 | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| **Photoresistor (Light Sensor)** | 1 | ✗ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| **Potentiometer 10kOhm** | 3 | ✗ | ✗ | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ |
+| **Pushbutton** | 1 | ✗ | ✗ | ✗ | ✗ | ✔ | ✗ | ✗ | ✗ |
+| **TMP36 Sensor** | 1 | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ | ✔ | ✗ |
+| **LCD 16x2** | 1 | ✗ | ✗ | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ |
+| **LED Red** | 1 | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ |
+| **LED Yellow** | 1 | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ |
+| **LED Green** | 1 | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ |
+| **DC Motor** | 1 | ✗ | ✗ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| **H-Bridge L293D** | 1 | ✗ | ✗ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| **Resistor 220Ohm** | 20 | ✗ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| **Resistor 10kOhm** | 20 | ✗ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 ## Notes
 
